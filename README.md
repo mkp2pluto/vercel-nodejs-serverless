@@ -29,7 +29,3 @@ Then run the app at the root of the repository:
 ```bash
 vercel dev
 ```
-
-```endpoint
-/api/hello
-```
